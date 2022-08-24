@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Favorite--Npm-packages/static/css/main.e66b19ec.css",
+    "main.js": "/Favorite--Npm-packages/static/js/main.f648e226.js",
+    "index.html": "/Favorite--Npm-packages/index.html",
+    "main.e66b19ec.css.map": "/Favorite--Npm-packages/static/css/main.e66b19ec.css.map",
+    "main.f648e226.js.map": "/Favorite--Npm-packages/static/js/main.f648e226.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e66b19ec.css",
+    "static/js/main.f648e226.js"
+  ]
+}
